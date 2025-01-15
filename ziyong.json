@@ -1,0 +1,98 @@
+{
+    "panTools": [
+        {
+            "name": "网盘拓展",
+            "url": "https://raw.githubusercontent.com/woleigedouer/uzVideo-extensions/refs/heads/main/panTools/js/panTools.js",
+            "env": "UCCookie##用于播放UC网盘视频&&夸克Cookie##用于播放Quark网盘视频&&阿里Token##用于播放阿里网盘视频&&转存文件夹名称##在各网盘转存文件时使用的文件夹名称",
+            "remark": "来自 Yswag 大佬 https://github.com/Yswag",
+            "version": "6",
+            "type": 300
+        }
+    ],
+    "danMu": [
+        {
+            "name": "综合弹幕",
+            "url": "https://raw.githubusercontent.com/woleigedouer/uzVideo-extensions/refs/heads/main/danMu/js/danMu2.txt",
+            "codeID": "wMFsJrk98TmvWbYAjO4Mne3CZDRh619D",
+            "remark": "别那么执着，搜不到就算了",
+            "type": 400,
+            "version": 1
+        }
+    ],
+    "live": [
+        {
+            "name": "YanG",
+            "url": "https://tv.iill.top/m3u/Gather",
+            "type": 10,
+            "remark": "来自 YanG-1989 大佬 https://github.com/YanG-1989"
+        }
+    ],
+    "vod": [
+        {
+            "name": "玩偶",
+            "api": "https://raw.githubusercontent.com/woleigedouer/uzVideo-extensions/refs/heads/main/vod/js/wogg.js",
+            "webSite": "https://www.wogg.net",
+            "remark": "𝓓𝓸𝓾'𝓮𝓻",
+            "version": "3",
+            "type": 101
+        },
+        {
+            "name": "木偶",
+            "api": "https://raw.githubusercontent.com/woleigedouer/uzVideo-extensions/refs/heads/main/vod/js/mogg.js",
+            "webSite": "http://www.muoupan.top",
+            "remark": "𝓓𝓸𝓾'𝓮𝓻",
+            "version": "2",
+            "type": 101
+        },
+        {
+            "name": "小米",
+            "api": "https://raw.githubusercontent.com/woleigedouer/uzVideo-extensions/refs/heads/main/vod/js/xiaomi.js",
+            "webSite": "http://www.mucpan.cc",
+            "remark": "𝓓𝓸𝓾'𝓮𝓻",
+            "version": "3",
+            "type": 101
+        },
+        {
+            "name": "蜡笔",
+            "api": "https://raw.githubusercontent.com/woleigedouer/uzVideo-extensions/refs/heads/main/vod/js/labipan.js",
+            "webSite": "https://duopan.fun",
+            "remark": "𝓓𝓸𝓾'𝓮𝓻",
+            "version": "3",
+            "type": 101
+        },
+        {
+            "name": "至臻",
+            "api": "https://raw.githubusercontent.com/woleigedouer/uzVideo-extensions/refs/heads/main/vod/js/zhizhen.js",
+            "webSite": "https://mihdr.top",
+            "remark": "𝓓𝓸𝓾'𝓮𝓻",
+            "version": "3",
+            "type": 101
+        },
+        {
+            "name": "多多",
+            "api": "https://raw.githubusercontent.com/woleigedouer/uzVideo-extensions/refs/heads/main/vod/js/duoduo.js",
+            "webSite": "https://tv.yydsys.top",
+            "remark": "𝓓𝓸𝓾'𝓮𝓻",
+            "version": "3",
+            "type": 101
+        },
+        {
+            "name": "欧歌",
+            "api": "https://raw.githubusercontent.com/woleigedouer/uzVideo-extensions/refs/heads/main/vod/js/ouge.js",
+            "webSite": "https://woog.nxog.eu.org",
+            "remark": "𝓓𝓸𝓾'𝓮𝓻",
+            "version": "3",
+            "type": 101
+        },
+        {
+            "name": "云盘",
+            "codeID": "",
+            "api": "https://raw.githubusercontent.com/woleigedouer/uzVideo-extensions/refs/heads/main/vod/js/resyunpan.js",
+            "instance": "resYunPan20241120",
+            "webSite": "https://res.yunpan.win",
+            "remark": "𝓓𝓸𝓾'𝓮𝓻",
+            "version": 1,
+            "type": 100
+        }
+    ]
+}
