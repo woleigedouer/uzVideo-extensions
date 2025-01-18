@@ -357,7 +357,7 @@
             "name": "MISSAV",
             "api": "https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/missav.js",
             "instance": "missav20240627",
-            "webSite": "https://missav.com",
+            "webSite": "https://missav.ai",
             "remark": "",
             "version": "2",
             "type": 100
@@ -368,7 +368,7 @@
             "instance": "jable20240831",
             "webSite": "https://jable.tv",
             "remark": "",
-            "version": "2",
+            "version": "3",
             "type": 100
         },
         {
