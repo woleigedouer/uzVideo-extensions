@@ -4,7 +4,7 @@
             "name": "网盘拓展",
             "url": "https://gitee.com/woleigedouer/uzVideo-extensions/raw/main/panTools/js/panTools.js",
             "env": "UCCookie##用于播放UC网盘视频&&夸克Cookie##用于播放Quark网盘视频&&阿里Token##用于播放阿里网盘视频&&转存文件夹名称##在各网盘转存文件时使用的文件夹名称",
-            "remark": "来自 Yswag 大佬 https://github.com/Yswag",
+            "remark": "夸克|阿里|UC",
             "version": "6",
             "type": 300
         }
