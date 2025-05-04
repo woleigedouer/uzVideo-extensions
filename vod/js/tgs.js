@@ -1,4 +1,4 @@
-//@name:[盘]tg搜
+//@name:[盘]TG搜
 //@version:1
 //@webSite:123云盘@zyfb123&豆儿盘@douerpan
 //@remark:格式 频道名称1@频道id1&频道名称2@频道id2
