@@ -6,7 +6,7 @@
       "remark": "iOS14 以上版本可用,App v1.6.54 及以上版本可用",
       "env": "UCCookie##用于播放UC网盘视频&&UC_UT##播放视频自动获取，不可用时点击删除重新获取 cookie ，再重启app&&夸克Cookie##用于播放Quark网盘视频&&转存文件夹名称##在各网盘转存文件时使用的文件夹名称&&123网盘账号##用于播放123网盘视频&&123网盘密码##用于播放123网盘视频&&天翼网盘账号##用于播放天翼网盘视频&&天翼网盘密码##用于播放天翼网盘视频&&采集解析地址##内置两个，失效不要反馈。格式：名称1@地址1;名称2@地址2",
       "order": "A",
-      "api": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/panTools/js/panTools2.js",
+      "api": "https://cdn.jsdelivr.net/gh/woleigedouer/uzVideo-extensions@main/panTools/js/panTools2.js",
       "type": 300
     },
     {
@@ -15,7 +15,7 @@
       "remark": "iOS15 以下版本使用",
       "env": "UCCookie##用于播放UC网盘视频&&UC_UT##播放视频自动获取，不可用时点击删除重新获取 cookie ，再重启app&&夸克Cookie##用于播放Quark网盘视频&&转存文件夹名称##在各网盘转存文件时使用的文件夹名称&&123网盘账号##用于播放123网盘视频&&123网盘密码##用于播放123网盘视频&&天翼网盘账号##用于播放天翼网盘视频&&天翼网盘密码##用于播放天翼网盘视频&&采集解析地址##内置两个，失效不要反馈。格式：名称1@地址1;名称2@地址2",
       "order": "B",
-      "api": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/panTools/js/panTools_iOS14.js",
+      "api": "https://cdn.jsdelivr.net/gh/woleigedouer/uzVideo-extensions@main/panTools/js/panTools_iOS14.js",
       "type": 300
     }
   ],
@@ -27,7 +27,7 @@
       "env": "自定义弹幕解析接口##格式 线路名称1@地址1|线路名称2@地址2&&自定义弹幕屏蔽列表##使用|分隔，如：广告|推广|关注&&自定义弹幕采集线路##格式 线路名称1@地址1|线路名称2@地址2",
       "codeID": "D9T0qMw4DBq9G5kJ0Grcl80XdWotNxRM",
       "order": "A01",
-      "api": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/danMu/js/danMu4.txt",
+      "api": "https://cdn.jsdelivr.net/gh/woleigedouer/uzVideo-extensions@main/danMu/js/danMu4.txt",
       "type": 400
     },
     {
@@ -37,14 +37,14 @@
       "env": "弹幕解析地址##内置 4 条线路。格式 地址1;地址2",
       "codeID": "4Y6DDMATfbw0Rg0Y2AOGpfmpU2cgspFf",
       "order": "A02",
-      "api": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/danMu/js/danMu2.txt",
+      "api": "https://cdn.jsdelivr.net/gh/woleigedouer/uzVideo-extensions@main/danMu/js/danMu2.txt",
       "type": 400
     },
     {
       "name": "弹幕扩展",
       "version": 1,
       "order": "A03",
-      "api": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/danMu/js/danMu.js",
+      "api": "https://cdn.jsdelivr.net/gh/woleigedouer/uzVideo-extensions@main/danMu/js/danMu.js",
       "type": 400
     }
   ],
@@ -54,7 +54,7 @@
       "version": 4,
       "remark": "iOS14 以上版本可用",
       "codeID": "hZC5h9Id3nP6mwaolSXqNemBLQCMFqhw",
-      "api": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/recommend/js/douban.txt",
+      "api": "https://cdn.jsdelivr.net/gh/woleigedouer/uzVideo-extensions@main/recommend/js/douban.txt",
       "type": 200
     }
   ],
@@ -96,7 +96,7 @@
       "version": 3,
       "webSite": "http://wogg.xxooo.cf",
       "order": "A01",
-      "api": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/vod/js/Pan_wogg.js",
+      "api": "https://cdn.jsdelivr.net/gh/woleigedouer/uzVideo-extensions@main/vod/js/Pan_wogg.js",
       "type": 101
     },
     {
@@ -104,7 +104,7 @@
       "version": 3,
       "webSite": "http://123.666291.xyz",
       "order": "A02",
-      "api": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/vod/js/Pan_mogg.js",
+      "api": "https://cdn.jsdelivr.net/gh/woleigedouer/uzVideo-extensions@main/vod/js/Pan_mogg.js",
       "type": 101
     },
     {
@@ -112,7 +112,7 @@
       "version": 4,
       "webSite": "http://feimaoai.site",
       "order": "A03",
-      "api": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/vod/js/Pan_labipan.js",
+      "api": "https://cdn.jsdelivr.net/gh/woleigedouer/uzVideo-extensions@main/vod/js/Pan_labipan.js",
       "type": 101
     },
     {
@@ -120,7 +120,7 @@
       "version": 1,
       "webSite": "http://1.95.79.193/",
       "order": "A04",
-      "api": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/vod/js/Pan_shandian.js",
+      "api": "https://cdn.jsdelivr.net/gh/woleigedouer/uzVideo-extensions@main/vod/js/Pan_shandian.js",
       "type": 101
     },
     {
@@ -128,7 +128,7 @@
       "version": 1,
       "webSite": "http://103.45.162.207:20720",
       "order": "A05",
-      "api": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/vod/js/Pan_huban.js",
+      "api": "https://cdn.jsdelivr.net/gh/woleigedouer/uzVideo-extensions@main/vod/js/Pan_huban.js",
       "type": 101
     },
     {
@@ -136,7 +136,7 @@
       "version": 1,
       "webSite": "https://2xiaopan.fun",
       "order": "A06",
-      "api": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/vod/js/Pan_erxiao.js",
+      "api": "https://cdn.jsdelivr.net/gh/woleigedouer/uzVideo-extensions@main/vod/js/Pan_erxiao.js",
       "type": 101
     },
     {
@@ -144,7 +144,7 @@
       "version": 4,
       "webSite": "http://www.miqk.cc",
       "order": "A07",
-      "api": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/vod/js/Pan_zhizhen.js",
+      "api": "https://cdn.jsdelivr.net/gh/woleigedouer/uzVideo-extensions@main/vod/js/Pan_zhizhen.js",
       "type": 101
     },
     {
@@ -152,7 +152,7 @@
       "version": 3,
       "webSite": "https://woog.nxog.eu.org",
       "order": "A08",
-      "api": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/vod/js/Pan_ouge.js",
+      "api": "https://cdn.jsdelivr.net/gh/woleigedouer/uzVideo-extensions@main/vod/js/Pan_ouge.js",
       "type": 101
     },
     {
@@ -160,7 +160,7 @@
       "version": 3,
       "webSite": "https://tv.yydsys.top",
       "order": "A09",
-      "api": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/vod/js/Pan_duoduo.js",
+      "api": "https://cdn.jsdelivr.net/gh/woleigedouer/uzVideo-extensions@main/vod/js/Pan_duoduo.js",
       "type": 101
     },
     {
@@ -170,7 +170,7 @@
       "webSite": "http://xsayang.fun:12512",
       "codeID": "o1yPDSn0NzqTIM7iqs1EcTbsIU4TVDdI",
       "order": "A10",
-      "api": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/vod/js/Pan_zishiying.txt",
+      "api": "https://cdn.jsdelivr.net/gh/woleigedouer/uzVideo-extensions@main/vod/js/Pan_zishiying.txt",
       "type": 101
     },
     {
@@ -180,7 +180,7 @@
       "webSite": "https://xzys.fun",
       "codeID": "7T4PFJobJZegoH1hLUyEL1HOGSoNuwR6",
       "order": "A11",
-      "api": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/vod/js/Pan_xzys.txt",
+      "api": "https://cdn.jsdelivr.net/gh/woleigedouer/uzVideo-extensions@main/vod/js/Pan_xzys.txt",
       "type": 101
     },
     {
@@ -190,7 +190,7 @@
       "webSite": "https://www.hdmoli.pro/",
       "codeID": "OAxUOePWsN3I7NQfNIO9Il1I1cgolbSa",
       "order": "A12",
-      "api": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/vod/js/Pan_HDmoli.txt",
+      "api": "https://cdn.jsdelivr.net/gh/woleigedouer/uzVideo-extensions@main/vod/js/Pan_HDmoli.txt",
       "type": 101
     },
     {
@@ -201,7 +201,7 @@
       "codeID": "GgryhjYVgQMDUw4f",
       "instance": "leiJing20241126",
       "order": "A13",
-      "api": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/vod/js/Pan_leijing.txt",
+      "api": "https://cdn.jsdelivr.net/gh/woleigedouer/uzVideo-extensions@main/vod/js/Pan_leijing.txt",
       "type": 100
     },
     {
@@ -209,7 +209,7 @@
       "version": 1,
       "webSite": "https://www.nanf.cc",
       "order": "A14",
-      "api": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/vod/js/Pan_nanfdj.js",
+      "api": "https://cdn.jsdelivr.net/gh/woleigedouer/uzVideo-extensions@main/vod/js/Pan_nanfdj.js",
       "type": 101
     },
     {
@@ -220,7 +220,7 @@
       "codeID": "LO5aQSJYBZLrRD1g",
       "instance": "funletu20241124",
       "order": "A15",
-      "api": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/vod/js/Pan_funletu.txt",
+      "api": "https://cdn.jsdelivr.net/gh/woleigedouer/uzVideo-extensions@main/vod/js/Pan_funletu.txt",
       "type": 100
     },
     {
@@ -231,7 +231,7 @@
       "codeID": "DU9z425w42hk9B8l",
       "instance": "tianyiso20241129",
       "order": "A16",
-      "api": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/vod/js/Pan_tianyiso.txt",
+      "api": "https://cdn.jsdelivr.net/gh/woleigedouer/uzVideo-extensions@main/vod/js/Pan_tianyiso.txt",
       "type": 100
     },
     {
@@ -241,7 +241,7 @@
       "env": "TG搜代理地址##默认直接访问 https://t.me/s/ 有自己的代理服务填入即可，没有不用改动。",
       "webSite": "123资源@zyfb123&天翼日更@tianyirigeng&天翼臻影@tyysypzypd&云巢@peccxinpd&夸克UC@ucquark&夸克电影@Q_dianying&夸克剧集@Q_dianshiju&夸克动漫@Q_dongman",
       "order": "A17",
-      "api": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/vod/js/Pan_tgs.js",
+      "api": "https://cdn.jsdelivr.net/gh/woleigedouer/uzVideo-extensions@main/vod/js/Pan_tgs.js",
       "type": 101
     },
     {
@@ -251,7 +251,7 @@
       "env": "TG搜API地址##https://tgsou.252035.xyz",
       "webSite": "123资源@zyfb123&天翼日更@tianyirigeng&天翼臻影@tyysypzypd&云巢@peccxinpd&夸克UC@ucquark&夸克电影@Q_dianying&夸克剧集@Q_dianshiju&夸克动漫@Q_dongman",
       "order": "A18",
-      "api": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/vod/js/Pan_tgs_api.js",
+      "api": "https://cdn.jsdelivr.net/gh/woleigedouer/uzVideo-extensions@main/vod/js/Pan_tgs_api.js",
       "type": 101
     },
     {
@@ -259,7 +259,7 @@
       "version": 2,
       "webSite": "https://xl01.com.de",
       "order": "B",
-      "api": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/vod/js/Zhi_biliys.js",
+      "api": "https://cdn.jsdelivr.net/gh/woleigedouer/uzVideo-extensions@main/vod/js/Zhi_biliys.js",
       "type": 101
     },
     {
@@ -268,7 +268,7 @@
       "webSite": "https://www.olehdtv.com",
       "instance": "olevod20240620",
       "order": "B",
-      "api": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/vod/js/Zhi_olevod.js",
+      "api": "https://cdn.jsdelivr.net/gh/woleigedouer/uzVideo-extensions@main/vod/js/Zhi_olevod.js",
       "type": 100
     },
     {
@@ -277,7 +277,7 @@
       "webSite": "https://www.hanjukankan.com",
       "instance": "hjkk20240624",
       "order": "B",
-      "api": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/vod/js/Zhi_hjkk.js",
+      "api": "https://cdn.jsdelivr.net/gh/woleigedouer/uzVideo-extensions@main/vod/js/Zhi_hjkk.js",
       "type": 100
     },
     {
@@ -288,7 +288,7 @@
       "codeID": "ra5Z3wtXKshzSMK2",
       "instance": "gzapp20241001",
       "order": "B",
-      "api": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/vod/js/Zhi_gzapp.txt",
+      "api": "https://cdn.jsdelivr.net/gh/woleigedouer/uzVideo-extensions@main/vod/js/Zhi_gzapp.txt",
       "type": 100
     },
     {
@@ -298,7 +298,7 @@
       "webSite": "https://api.gudvxty.com",
       "instance": "gzys20240822",
       "order": "B",
-      "api": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/vod/js/Zhi_gzys.js",
+      "api": "https://cdn.jsdelivr.net/gh/woleigedouer/uzVideo-extensions@main/vod/js/Zhi_gzys.js",
       "type": 100
     },
     {
@@ -307,7 +307,7 @@
       "webSite": "https://4k-av.com",
       "instance": "www4kav20240705",
       "order": "B",
-      "api": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/vod/js/Zhi_4kav.js",
+      "api": "https://cdn.jsdelivr.net/gh/woleigedouer/uzVideo-extensions@main/vod/js/Zhi_4kav.js",
       "type": 100
     },
     {
@@ -316,7 +316,7 @@
       "remark": "🍃豆儿出品，不属精品！",
       "webSite": "https://libvio.mov/",
       "order": "C",
-      "api": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/vod/js/Xiu_libvio.js",
+      "api": "https://cdn.jsdelivr.net/gh/woleigedouer/uzVideo-extensions@main/vod/js/Xiu_libvio.js",
       "type": 101
     },
     {
@@ -324,7 +324,7 @@
       "version": 1,
       "webSite": "https://www.lmm97.com",
       "order": "C",
-      "api": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/vod/js/Xiu_lmm.js",
+      "api": "https://cdn.jsdelivr.net/gh/woleigedouer/uzVideo-extensions@main/vod/js/Xiu_lmm.js",
       "type": 101
     },
     {
@@ -332,7 +332,7 @@
       "version": 1,
       "webSite": "https://www.mxdm6.com",
       "order": "C",
-      "api": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/vod/js/Xiu_mxdm.js",
+      "api": "https://cdn.jsdelivr.net/gh/woleigedouer/uzVideo-extensions@main/vod/js/Xiu_mxdm.js",
       "type": 101
     },
     {
@@ -340,7 +340,7 @@
       "version": 1,
       "webSite": "https://www.ntdm9.com",
       "order": "C",
-      "api": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/vod/js/Xiu_ntdm.js",
+      "api": "https://cdn.jsdelivr.net/gh/woleigedouer/uzVideo-extensions@main/vod/js/Xiu_ntdm.js",
       "type": 101
     },
     {
@@ -348,7 +348,7 @@
       "version": 1,
       "webSite": "https://www.bahaotv.com",
       "order": "C",
-      "api": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/vod/js/Xiu_bhys.js",
+      "api": "https://cdn.jsdelivr.net/gh/woleigedouer/uzVideo-extensions@main/vod/js/Xiu_bhys.js",
       "type": 101
     },
     {
@@ -356,7 +356,7 @@
       "version": 1,
       "webSite": "https://www.vdm5.com",
       "order": "C",
-      "api": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/vod/js/Xiu_yhdm.js",
+      "api": "https://cdn.jsdelivr.net/gh/woleigedouer/uzVideo-extensions@main/vod/js/Xiu_yhdm.js",
       "type": 101
     },
     {
@@ -364,7 +364,7 @@
       "version": 1,
       "webSite": "https://www.tt776b.com",
       "order": "C",
-      "api": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/vod/js/Xiu_fcdm.js",
+      "api": "https://cdn.jsdelivr.net/gh/woleigedouer/uzVideo-extensions@main/vod/js/Xiu_fcdm.js",
       "type": 101
     },
     {
@@ -372,7 +372,7 @@
       "version": 1,
       "webSite": "https://eacg1.com",
       "order": "C",
-      "api": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/vod/js/Xiu_eacg.js",
+      "api": "https://cdn.jsdelivr.net/gh/woleigedouer/uzVideo-extensions@main/vod/js/Xiu_eacg.js",
       "type": 101
     },
     {
@@ -380,7 +380,7 @@
       "version": 1,
       "webSite": "https://eacg1.com",
       "order": "C",
-      "api": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/vod/js/Xiu_eacg2.js",
+      "api": "https://cdn.jsdelivr.net/gh/woleigedouer/uzVideo-extensions@main/vod/js/Xiu_eacg2.js",
       "type": 101
     },
     {
@@ -388,7 +388,7 @@
       "version": 1,
       "webSite": "https://www.mutean.com",
       "order": "C",
-      "api": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/vod/js/Xiu_MuteFun.js",
+      "api": "https://cdn.jsdelivr.net/gh/woleigedouer/uzVideo-extensions@main/vod/js/Xiu_MuteFun.js",
       "type": 101
     },
     {
@@ -396,7 +396,7 @@
       "version": 1,
       "webSite": "https://anime.girigirilove.com",
       "order": "C",
-      "api": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/vod/js/Xiu_girigirilove.js",
+      "api": "https://cdn.jsdelivr.net/gh/woleigedouer/uzVideo-extensions@main/vod/js/Xiu_girigirilove.js",
       "type": 101
     },
     {
@@ -405,7 +405,7 @@
       "remark": "通用官采解析1，需配合网盘解析工具使用。每次消耗所有解析次数！",
       "webSite": "https://zy.xmm.hk/api.php/provide/vod",
       "order": "D1",
-      "api": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/vod/js/Jie_cms.js",
+      "api": "https://cdn.jsdelivr.net/gh/woleigedouer/uzVideo-extensions@main/vod/js/Jie_cms.js",
       "type": 101
     },
     {
@@ -415,7 +415,7 @@
       "env": "采集解析地址##内置两个，失效不要反馈。格式：名称1@地址1;名称2@地址2",
       "webSite": "https://zy.xmm.hk/api.php/provide/vod",
       "order": "D2",
-      "api": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/vod/js/Jie_cms2.js",
+      "api": "https://cdn.jsdelivr.net/gh/woleigedouer/uzVideo-extensions@main/vod/js/Jie_cms2.js",
       "type": 101
     },
     {
@@ -436,7 +436,7 @@
       "remark": "地址输入自己搭建的 cms 采集地址，默认使用如意采集占位",
       "webSite": "https://cj.rycjapi.com/api.php/provide/vod",
       "order": "D5",
-      "api": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/vod/js/Cai_cmsUser.js",
+      "api": "https://cdn.jsdelivr.net/gh/woleigedouer/uzVideo-extensions@main/vod/js/Cai_cmsUser.js",
       "type": 101
     }
   ]
