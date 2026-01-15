@@ -14,7 +14,7 @@
 # 订阅
 
 ```
-https://github.com/woleigedouer/uzVideo-extensions/releases/download/uzVideo-Extensions-main/uzAio.zip
+https://github.com/woleigedouer/uzVideo-extensions/releases/download/uzVideo-Extensions-douer/uzAio.zip
 ```
 
 # 添加方式
